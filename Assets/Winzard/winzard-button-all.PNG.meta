@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: aaf91ad11898d3344bff1539946e0765
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7744231892975450132
+    second: winzard-button-all_0
+  - first:
+      213: 5815052116699282508
+    second: winzard-button-all_1
+  - first:
+      213: 8640582304731205276
+    second: winzard-button-all_2
+  - first:
+      213: -7425249060698685539
+    second: winzard-button-all_3
+  - first:
+      213: 7490305077149198722
+    second: winzard-button-all_4
+  - first:
+      213: -7117286734633541700
+    second: winzard-button-all_5
+  - first:
+      213: 4691577805033268686
+    second: winzard-button-all_6
+  - first:
+      213: -9171193817826551500
+    second: winzard-button-all_7
+  - first:
+      213: 880298594520440407
+    second: winzard-button-all_8
+  - first:
+      213: -2879495417804542511
+    second: winzard-button-all_9
+  - first:
+      213: -8311450091998219865
+    second: winzard-button-all_10
+  - first:
+      213: 795417822225765645
+    second: winzard-button-all_11
+  - first:
+      213: -54527247309871650
+    second: winzard-button-all_12
+  - first:
+      213: -3068657010275255901
+    second: winzard-button-all_13
+  - first:
+      213: -2645617102463936775
+    second: winzard-button-all_14
+  - first:
+      213: 738379481032198151
+    second: winzard-button-all_15
+  - first:
+      213: -590265067236646952
+    second: winzard-button-all_16
+  - first:
+      213: 5491129118577832793
+    second: winzard-button-all_17
+  - first:
+      213: 7655462640653819150
+    second: winzard-button-all_18
+  - first:
+      213: -7704546326012048345
+    second: winzard-button-all_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: winzard-button-all_0
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 4591
+        width: 1206
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce782f0cf16f68490800000000000000
+      internalID: -7744231892975450132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winzard-button-all_1
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 4615
+        width: 1207
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c7e36371733b050800000000000000
+      internalID: 5815052116699282508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winzard-button-all_2
+      rect:
+        serializedVersion: 2
+        x: 3736
+        y: 4597
+        width: 1206
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e870e83d389e770800000000000000
+      internalID: 8640582304731205276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winzard-button-all_3
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 3697
+        width: 1207
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f7048e15734f890800000000000000
+      internalID: -7425249060698685539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winzard-button-all_4
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 3721
+        width: 1207
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28968c648c8e2f760800000000000000
+      internalID: 7490305077149198722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winzard-button-all_5
+      rect:
+        serializedVersion: 2
+        x: 3736
+        y: 3703
+        width: 1206
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf51918c615a3d90800000000000000
+      internalID: -7117286734633541700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winzard-button-all_6
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 2787
+        width: 1207
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec56d191825db1140800000000000000
+      internalID: 4691577805033268686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winzard-button-all_7
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 3479
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439903250df59b080800000000000000
+      internalID: -9171193817826551500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winzard-button-all_8
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 2795
+        width: 1205
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e9aae58e2773c00800000000000000
+      internalID: 880298594520440407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winzard-button-all_9
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 3273
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd25697c2af908d0800000000000000
+      internalID: -2879495417804542511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winzard-button-all_10
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 3165
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1fe026d2cc7ac80800000000000000
+      internalID: -8311450091998219865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winzard-button-all_11
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 2950
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0518c58b44e90b00800000000000000
+      internalID: 795417822225765645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winzard-button-all_12
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1893
+        width: 1207
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5e389e1c74e3ff0800000000000000
+      internalID: -54527247309871650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winzard-button-all_13
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 1915
+        width: 1204
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9f70525b0f965d0800000000000000
+      internalID: -3068657010275255901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winzard-button-all_14
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 1902
+        width: 1205
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f650fb2341e84bd0800000000000000
+      internalID: -2645617102463936775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winzard-button-all_15
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1016
+        width: 1207
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7088c54d9304f3a00800000000000000
+      internalID: 738379481032198151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winzard-button-all_16
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1011
+        width: 1207
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df99087c05fec7f0800000000000000
+      internalID: -590265067236646952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winzard-button-all_17
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 1022
+        width: 1204
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953b2a017d8643c40800000000000000
+      internalID: 5491129118577832793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winzard-button-all_18
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 122
+        width: 1207
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dd17716baad3a60800000000000000
+      internalID: 7655462640653819150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winzard-button-all_19
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 128
+        width: 1204
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cc28adfe3f31590800000000000000
+      internalID: -7704546326012048345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
