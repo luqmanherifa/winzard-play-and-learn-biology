@@ -1,1 +1,1 @@
-# Winzard - Bermain dan Belajar Biologi
+# Winzard: Bermain dan Belajar Biologi
