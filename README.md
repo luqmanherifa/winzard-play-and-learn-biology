@@ -22,6 +22,19 @@ Deployment
 Font
   - Jack Armstrong
   - [Roboto](https://fonts.google.com/specimen/Roboto)
+
+## Team
+Developer
+  - Billy Andreanto
+  - Fery Eka Mahendra
+  - Luqman Al-Hakim
+  - Rama Wahyudani
+  - Robert Mahendra
+
+Designer
+  - I Komang Sidi Sidarika
+  - Karina Hanif
+  - Vanda Fransiska
   
 ## Contact
   - [Email](mailto:luqmanherifa@gmail.com)
