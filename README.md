@@ -29,7 +29,7 @@ Color
 Developer
   - Billy Andreanto
   - Fery Eka Mahendra
-  - Luqman Al-Hakim
+  - Luqman Al-Hakim (Me)
   - Rama Wahyudani
   - Robert Mahendra
 
