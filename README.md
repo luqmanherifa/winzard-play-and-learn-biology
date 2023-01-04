@@ -23,6 +23,9 @@ Font
   - Jack Armstrong
   - [Roboto](https://fonts.google.com/specimen/Roboto)
 
+Color
+  - Sorry, too many colors to mention. :(
+
 ## Team
 Developer
   - Billy Andreanto
