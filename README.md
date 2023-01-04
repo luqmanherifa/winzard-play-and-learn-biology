@@ -32,7 +32,7 @@ Developer
   - Robert Mahendra
 
 Designer
-  - I Komang Sidi Sidarika
+  - I Komang Sidarika
   - Karina Hanif
   - Vanda Fransiska
   
