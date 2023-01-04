@@ -31,3 +31,5 @@ Font
 
 ## Thanks to
   - [Alvin Roe](https://www.youtube.com/@AlvinRoe)
+  - [Limbo](https://playdead.com/games/limbo)
+  - [Duolingo](https://www.duolingo.com)
