@@ -1,5 +1,5 @@
 # Winzard: Play and Learn Biology
-Winzard is a mobile app that combines 2D platformer games and biology learning media for students. The project was developed by a team using C# programming, Unity software, and CorelDRAW for asset design.
+Winzard is a mobile app that combines 2D platformer games and biology learning media for students. The project was developed for internship by a team using C# programming, Unity software, and CorelDRAW for asset design.
 
 ## Display
 ![Display](https://luqmanherifa.site/img/imgwinzard.png)
