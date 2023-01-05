@@ -16,6 +16,9 @@ Deployment
   - [Google Play](https://play.google.com/store/apps/details?id=id.ac.stiki.doleno.winzard)
   - [itch.io](https://luqmanherifa.itch.io/winzard)
   - [Appetize](https://appetize.io/app/3cy7ufbp7dcwxjdojl4hlmhrpq)
+  
+Date Created
+  - August 2020 — January 2021
 
 ## Design
 Font
