@@ -45,11 +45,11 @@ Winzard is a mobile app that combines 2D platformer games and biology learning m
   - Karina Hanif
   - Vanda Fransiska
   
-## Contacts
+## Socials
   - [Email](mailto:luqmanherifa@gmail.com)
   - [Instagram](https://www.instagram.com/luqmanherifa)
-  - [GitHub](https://github.com/luqmanherifa)
   - [LinkedIn](https://www.linkedin.com/in/luqmanherifa)
+  - [Dribbble](https://dribbble.com/luqmanherifa)
 
 ## Thanks to
   - [Alvin Roe](https://www.youtube.com/@AlvinRoe)
