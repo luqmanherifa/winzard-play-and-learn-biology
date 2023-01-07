@@ -20,7 +20,7 @@ Winzard is a mobile app that combines 2D platformer games and biology learning m
 - ### Colors
   - "Sorry, too many colors to mention." :(
   
-- ### Tool
+- ### Tools
   - CorelDRAW
 
 ## Build
