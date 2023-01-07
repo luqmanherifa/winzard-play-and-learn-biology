@@ -30,7 +30,7 @@ Winzard is a mobile app that combines 2D platformer games and biology learning m
   - [Appetize](https://appetize.io/app/3cy7ufbp7dcwxjdojl4hlmhrpq)
 
 - ### Date Created
-  - August 2020 — January 2021
+  - September 2020 — February 2021
 
 ## Team
 - ### Developers
