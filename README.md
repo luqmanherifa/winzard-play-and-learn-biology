@@ -24,6 +24,11 @@ Winzard is a mobile app that combines 2D platformer games and biology learning m
   - CorelDRAW
 
 ## Build
+- ### Platform
+  - Android
+  - Web
+  - Desktop
+
 - ### Deployments
   - [Google Play](https://play.google.com/store/apps/details?id=id.ac.stiki.doleno.winzard)
   - [itch.io](https://luqmanherifa.itch.io/winzard)
