@@ -18,7 +18,7 @@ Winzard is a mobile app that combines 2D platformer games and biology learning m
   - [Roboto](https://fonts.google.com/specimen/Roboto)
 
 - ### Colors
-  - "Sorry, too many colors to mention." :(
+  - Sorry, too many colors to mention. :(
   
 - ### Tools
   - CorelDRAW
