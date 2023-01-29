@@ -2,7 +2,7 @@
 Winzard is a mobile app that combines 2D platformer games and biology learning media for students. The project was developed for internship by a team using C# programming, Unity software, and CorelDRAW for asset design.
 
 ## Display
-![Display](https://luqmanherifav1-luqmanherifa.vercel.app/img/imgwinzard.png)
+![Display](https://cdn.dribbble.com/users/6699911/screenshots/20504269/media/75e6f88009259f53a99e2ff61399672f.png)
 
 ## Software
 - ### Language
