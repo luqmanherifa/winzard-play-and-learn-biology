@@ -24,12 +24,12 @@ Winzard is a mobile app that combines 2D platformer games and biology learning m
   - CorelDRAW
 
 ## Build
-- ### Platforms
+- ### Platform
   - Android
   - WebGL
   - Desktop
 
-- ### Deployments
+- ### Deployment
   - [Google Play](https://play.google.com/store/apps/details?id=id.ac.stiki.doleno.winzard)
   - [itch.io](https://luqmanherifa.itch.io/winzard)
   - [Appetize](https://appetize.io/app/3cy7ufbp7dcwxjdojl4hlmhrpq)
@@ -38,19 +38,19 @@ Winzard is a mobile app that combines 2D platformer games and biology learning m
   - September 2020 — February 2021
 
 ## Team
-- ### Developers
+- ### Developer
   - Billy Andreanto
   - Fery Eka Mahendra
   - Luqman Al-Hakim (Me)
   - Rama Wahyudani
   - Robert Mahendra
 
-- ### Designers
+- ### Designer
   - I Komang Sidarika
   - Karina Hanif
   - Vanda Fransiska
 
-## Socials
+## Social
   - [Email](mailto:luqmanherifa@gmail.com)
   - [Instagram](https://www.instagram.com/luqmanherifa)
   - [LinkedIn](https://www.linkedin.com/in/luqmanherifa)
