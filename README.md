@@ -34,7 +34,7 @@ Winzard is a game app combines 2D platformer game and biology learning media for
   - [itch.io](https://luqmanherifa.itch.io/winzard)
   - [Appetize](https://appetize.io/app/3cy7ufbp7dcwxjdojl4hlmhrpq)
 
-- ### Date Created
+- ### Date created
   - September 2020 — February 2021
 
 ## Team
