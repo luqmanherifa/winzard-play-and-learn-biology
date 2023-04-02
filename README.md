@@ -5,47 +5,47 @@ Winzard is a game app combines 2D platformer game and biology learning media for
 ![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/src/images/mobile_winzard.png)
 
 ## Software
-- ### Language
+### Language
   - C#
   
-- ### Tools
+### Tools
   - Unity
   - Visual Studio
 
 ## Design
-- ### Fonts
+### Fonts
   - Jack Armstrong
   - [Roboto](https://fonts.google.com/specimen/Roboto)
 
-- ### Colors
+### Colors
   - Sorry, too many colors to mention :(
   
-- ### Tools
+### Tools
   - CorelDRAW
 
 ## Build
-- ### Platform
+### Platform
   - Android
   - WebGL
   - Desktop
 
-- ### Deployment
+### Deployment
   - [Google Play](https://play.google.com/store/apps/details?id=id.ac.stiki.doleno.winzard)
   - [itch.io](https://luqmanherifa.itch.io/winzard)
   - [Appetize](https://appetize.io/app/3cy7ufbp7dcwxjdojl4hlmhrpq)
 
-- ### Date created
+### Date created
   - September 2020 — February 2021
 
 ## Team
-- ### Developer
+### Developer
   - Billy Andreanto
   - Fery Eka Mahendra
   - Luqman Al-Hakim (Me)
   - Rama Wahyudani
   - Robert Mahendra
 
-- ### Designer
+### Designer
   - I Komang Sidarika
   - Karina Hanif
   - Vanda Fransiska
