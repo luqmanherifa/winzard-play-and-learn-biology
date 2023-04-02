@@ -12,6 +12,27 @@ Winzard is a game app combines 2D platformer game and biology learning media for
   - Unity
   - Visual Studio
 
+### Features
+  - Main Menu
+  - Play Menu
+  - Stage Menu
+  - Character Move
+  - Character Jump
+  - Character Attack
+  - Maps
+  - Enemy
+  - Power Up
+  - Object
+  - Boss Fight
+  - Checkpoint System
+  - Health System
+  - Health Bar
+  - Learning Material Pop Up
+  - Quiz Question
+  - Quiz Score
+  - Info Page
+  - Loading Page
+
 ## Design
 ### Fonts
   - Jack Armstrong
