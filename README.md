@@ -19,7 +19,7 @@ Winzard is a game app combines 2D platformer game and biology learning media for
   - Character Move
   - Character Jump
   - Character Attack
-  - Maps
+  - Map
   - Enemy
   - Power Up
   - Object
