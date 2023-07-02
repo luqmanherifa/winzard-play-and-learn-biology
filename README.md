@@ -1,5 +1,4 @@
 # Winzard: Play and Learn Biology
-Winzard is a game app combines 2D platformer game and biology learning media for students based on mobile. The project was developed for college internship by a team using C# and Unity.
 
 ## Display
 ![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/mobile_winzard.png)
@@ -57,19 +56,6 @@ Winzard is a game app combines 2D platformer game and biology learning media for
 
 ### Date created
   - September 2020 — February 2021
-
-## Team
-### Developer
-  - Billy Andreanto
-  - Fery Eka Mahendra
-  - Luqman Al-Hakim (Me)
-  - Rama Wahyudani
-  - Robert Mahendra
-
-### Designer
-  - I Komang Sidarika
-  - Karina Hanif
-  - Vanda Fransiska
 
 ## Social
   - [Email](mailto:luqmanherifa@gmail.com)
