@@ -57,14 +57,7 @@
 ### Date created
   - September 2020 — February 2021
 
-## Social
-  - [Email](mailto:luqmanherifa@gmail.com)
-  - [Instagram](https://www.instagram.com/luqmanherifa)
-  - [LinkedIn](https://www.linkedin.com/in/luqmanherifa)
-  - [Dribbble](https://dribbble.com/luqmanherifa)
-
 ## Thanks to
   - [Alvin Roe](https://www.youtube.com/@AlvinRoe)
   - [Limbo](https://playdead.com/games/limbo)
   - [Duolingo](https://www.duolingo.com)
-  - [Super Mario](https://mario.nintendo.com)
