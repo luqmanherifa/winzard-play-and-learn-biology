@@ -1,7 +1,7 @@
 # Winzard: Play and Learn Biology
 
 ## Display
-![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/mobile_winzard.png)
+![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/winzard.png)
 
 ## Software
 ### Language
