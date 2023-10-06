@@ -11,27 +11,6 @@
   - Unity
   - Visual Studio
 
-### Features
-  - Main Menu
-  - Play Menu
-  - Stage Menu
-  - Character Move
-  - Character Jump
-  - Character Attack
-  - Map
-  - Enemy
-  - Power Up
-  - Object
-  - Boss Fight
-  - Checkpoint System
-  - Health System
-  - Health Bar
-  - Learning Material Pop Up
-  - Quiz Question
-  - Quiz Score
-  - Info Page
-  - Loading Page
-
 ## Design
 ### Fonts
   - Jack Armstrong
