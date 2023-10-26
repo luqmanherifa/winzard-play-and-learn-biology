@@ -2,6 +2,7 @@
 
 ## Display
 ![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/winzard.png)
+  - [Trailer](https://youtu.be/T6xnfyHysoE)
 
 ## Software
 ### Language
