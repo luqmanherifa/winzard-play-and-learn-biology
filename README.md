@@ -2,7 +2,6 @@
 
 ## Interface
 ![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/winzard.png)
-  - [Trailer](https://youtu.be/T6xnfyHysoE)
 
 ## Software
 ### Language
@@ -33,6 +32,7 @@
   - [Google Play](https://play.google.com/store/apps/details?id=id.ac.stiki.doleno.winzard)
   - [itch.io](https://luqmanherifa.itch.io/winzard)
   - [Appetize](https://appetize.io/app/3cy7ufbp7dcwxjdojl4hlmhrpq)
+  - [YouTube](https://youtu.be/T6xnfyHysoE)
 
 ### Date created
   - September 2020 — February 2021
