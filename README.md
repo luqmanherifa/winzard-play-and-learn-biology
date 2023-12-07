@@ -29,7 +29,7 @@ Winzard is a game app combines 2D platformer game and biology learning media for
   - WebGL
   - Desktop
 
-### Deployment
+### Live
   - [Google Play](https://play.google.com/store/apps/details?id=id.ac.stiki.doleno.winzard)
   - [YouTube](https://youtu.be/T6xnfyHysoE)
   - [itch.io](https://luqmanherifa.itch.io/winzard)
